@@ -9,7 +9,7 @@
     "express": "^4.18.2"
   }
 }
-// ===  kril lotin uchun  ===
+
 {
   "name": "oefen-translite",
   "version": "1.0.0",
